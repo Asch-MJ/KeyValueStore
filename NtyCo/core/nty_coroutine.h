@@ -85,7 +85,7 @@
 #define ENABLE_DHASH 1
 #define ENABLE_SKIPTABLE 1
 #define ENABLE_MEM_POOL 0
-#define ENABLE_LOG 0
+#define ENABLE_LOG 1
 
 #define ENABLE_KVENGINE 1
 
