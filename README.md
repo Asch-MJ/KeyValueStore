@@ -2,6 +2,9 @@
 一个使用C + TCP + NtyCo实现的，支持多种存储引擎的Key-Value存储系统，支持多种语言客户端。
 解决长、短链接之间的映射关系的问题，在数据库中构建的强查找的数据结构，通过短链接查表重定向获取实链接，可作为一个中间件使用。
 
+## Asch Blog
+https://www.asch.blog/article/75bd8f4d-c1f9-44ca-b53c-640b91c37ad7
+
 ## 文件介绍
 1. NtyCo: 协程的实现，kvstore是基于协程实现；
 2. kvs-client: 支持多语言客户端封装；
